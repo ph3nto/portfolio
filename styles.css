@@ -65,6 +65,9 @@ header {
 #experience{
   background: url('https://images.unsplash.com/photo-1531122991294-494fd32d9ab2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1779&q=80') no-repeat top center ;
 }
+#Interests {
+  background: url('https://images.unsplash.com/photo-1515888368305-5a7eba31b4e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1836&q=80') no-repeat top center;
+}
 header {
   line-height: 1.5;
 }
@@ -100,6 +103,7 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+  float: left;
 }
 .card:hover {
   border-color: #ff99ff;
@@ -153,9 +157,6 @@ a.social {
   background-size: 30px 30px;
   opacity: .4;
   transition: all .5s;
-}
-a.instagram {
-  background-image: url(https://image.flaticon.com/icons/svg/174/174855.svg);
 }
 a.github {
   background-image: url(https://image.flaticon.com/icons/svg/25/25657.svg);
