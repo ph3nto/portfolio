@@ -62,6 +62,9 @@ header {
   overflow: hidden;
   padding-top: 60px;
 }
+#experience{
+  background: url('https://images.unsplash.com/photo-1531122991294-494fd32d9ab2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1779&q=80') no-repeat top center ;
+}
 header {
   line-height: 1.5;
 }
