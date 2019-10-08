@@ -57,24 +57,24 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('https://images.unsplash.com/photo-1520978500541-974c5fb1be93?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1912&q=80') no-repeat top center ;
+  background: url('images/rsz_daniel-brosch-emulmmbo_0a-unsplash_1.jpg');
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
 #experience{
-  background: url('https://images.unsplash.com/photo-1531122991294-494fd32d9ab2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1779&q=80') no-repeat top center ;
+  background: url('images/rsz_1michael-glass-vflfgbycio8-unsplash.jpg') no-repeat top center ;
 }
 #Interests {
-  background: url('https://images.unsplash.com/photo-1515888368305-5a7eba31b4e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1836&q=80') no-repeat top center;
+  background: url('images/rsz_wojciech-portnicki-ijgvsmi_nsw-unsplash.jpg') no-repeat top center;
 }
 header {
   line-height: 1.5;
 }
 header .profile-image {
   margin-top: 50px;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   border: 3px dashed white;
   transition: all .5s;
@@ -88,7 +88,7 @@ header .profile-image:hover {
   padding: 10px;
   border-radius: 5px;
   display: table;
-  margin: 10px auto;
+  margin: 90px auto;
 }
 .location {
   background-color: #222;
