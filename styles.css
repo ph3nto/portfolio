@@ -63,9 +63,11 @@ header {
   padding-top: 60px;
 }
 #experience{
+  background-size: cover;
   background: url('images/rsz_1michael-glass-vflfgbycio8-unsplash.jpg') no-repeat top center ;
 }
 #Interests {
+  background-size: cover;
   background: url('images/rsz_wojciech-portnicki-ijgvsmi_nsw-unsplash.jpg') no-repeat top center;
 }
 header {
